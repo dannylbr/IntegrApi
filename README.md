@@ -1,7 +1,6 @@
 ﻿# IntegrApi
 
 [![.NET](https://img.shields.io/badge/.NET-8+-blue)](https://dotnet.microsoft.com/)  
-[![License: MIT](https://img.shields.io/github/license/dannylbr/IntegrApi)](https://github.com/dannylbr/IntegrApi/blob/main/LICENSE)
 
 > A clean, minimal API example implemented in **C# .NET**, designed as a lightweight template and learning resource.
 
@@ -20,7 +19,6 @@
 - [Configuration](#configuration)  
 - [Testing & Requests](#testing--requests)  
 - [Contributing](#contributing)  
-- [License](#license)  
 - [Contact](#contact)
 
 ---
@@ -150,10 +148,6 @@ Contributions are very welcome! Here are a few ways you could help:
 - Improve documentation or expand the .http file with more example requests
 
 Feel free to open issues or pull requests — I appreciate your help!
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/aws/mit-0) for more details.
 
 ### Contact
 
