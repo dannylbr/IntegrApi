@@ -95,6 +95,7 @@ Below is a conceptual overview of the possible endpoints:
 
 ### Project Structure
 
+```graphql
 IntegrApi/
 │
 ├── Models/                   # Domain models (e.g., DTOs, business objects)
@@ -115,6 +116,7 @@ IntegrApi/
 ├── .gitignore                # Git ignore rules
 |
 └── README.md                 # Project documentation
+```
 
 ### Configuration
 
